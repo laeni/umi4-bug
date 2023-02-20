@@ -8,10 +8,10 @@
     "build": "umi build"
   },
   "dependencies": {
-    "@umijs/plugins": "4.0.21",
+    "@umijs/plugins": "4.0.46",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "umi": "4.0.21"
+    "umi": "4.0.46"
   },
   "devDependencies": {
     "@types/react": "^18.0.8",
